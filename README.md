@@ -8,6 +8,8 @@ Aplicación mobile que permite al dueño de una mascota organizar información s
 
 [Miro - Backlog](https://miro.com/app/board/uXjVKf2CnA0=/)
 
+[Demo - Presentación final](https://www.youtube.com/watch?v=kZWl0pAFH30).
+
 ### Participantes:
 
 Pablo Spizzamiglio y Ximena Bogado
